@@ -1,0 +1,80 @@
+.footer-footer1{
+	background: #FAFAFA;
+	padding-top: 35px;
+
+}
+
+.footer-footer1 .title h3{
+	font-size: 24px;
+	margin-bottom: 30px;
+	padding-bottom: 20px;
+	border-bottom: 1px solid #e1e1e1;
+	text-transform: uppercase;
+	color: #ea7979;
+}
+
+.footer-footer1 .title.line {
+	width: 20px;
+	height: 1px;
+	background: #F2532F;
+	position: absolute;
+	bottom: 0px;
+	left: 20px;
+}
+
+
+.footer-footer1 .title.icon {
+	float: left;
+	width: 33px;
+	height: 33px;
+	line-height: 33px;
+	color: #fff;
+	background: #5f8384;
+	text-align: center;
+}
+
+.contact-us .item .icon{
+	float: left;
+}
+
+.contact-us .item .info{
+	padding-left: 30px;
+}
+
+.footer-links{
+	padding: 50px 0px;
+}
+
+
+.footer-footer1 ul li{
+	margin: 0px 0px 8px 0px;
+}
+
+.footer-footer1 ul li a{
+	font-size: 18px;
+	color: #000;
+}
+
+
+.footer-footer1 .item .icon{
+	width: 33px;
+	height: 33px;
+	line-height: 33px;
+	color: #fff;
+	background: #F2532F;
+	text-align: center;	
+}
+
+.footer-footer1 .item .info{
+	padding: 3px 0px 0px 40px;
+}
+
+.footer-footer2{
+	background: #924d9b;
+	padding: 15px 0px;
+}
+
+.footer-footer2 p{
+	color: #fff;
+	margin: 0px;
+}

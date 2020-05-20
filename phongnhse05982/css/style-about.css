@@ -1,0 +1,32 @@
+.about-us{
+	padding: right;
+}
+
+.form-about{
+	background: #2E2F33;
+	height: 160px;
+	padding: 20px 10px 0px 25px;
+}
+
+.form-about h3{
+	font-size: 10px;
+	color: #fff;
+	text-transform: uppercase;
+	margin: 0px 0px 20px 0px;
+}	
+.form-about a{	
+	background: #000; 
+	color: #fff;
+}
+
+.shop-about{
+	border: 5px solid #e1e1e1;
+	height: 200px;
+}
+
+.shop-about p{
+	padding: 15px 0px;
+	font-size: 15px;
+	text-align: left;
+	color: #79627c;
+}
